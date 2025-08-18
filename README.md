@@ -1,2 +1,2 @@
 # MachineLearning
-This is a repository for my Machine Learning Projects.
+These are the repositories of my Machine Learning and Data Scientist Projects.
